@@ -3,6 +3,7 @@ Source Code for StackAbuse tutorial.
 
 You can follow the tutorial on [StackAbuse article](https://stackabuse.com/)
 
+To use this code, follow below steps
 1. Create the project folder:
 `mkdir FlaskWtf && cd FlaskWtf`
 
