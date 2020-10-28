@@ -1,4 +1,4 @@
 # SA-Flask-WTForms
 Source Code for StackAbuse tutorial.
 
-You can follow the tutorial on <a rel=”nofollow noopener” target=”_blank” href=”stackabuse.com”> StackAbuse article.</a>
+You can follow the tutorial on [StackAbuse article](https://stackabuse.com/)
