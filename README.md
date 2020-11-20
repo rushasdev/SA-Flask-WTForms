@@ -1,7 +1,7 @@
 # SA-Flask-WTForms
 Source Code for StackAbuse tutorial.
 
-You can follow the tutorial on [StackAbuse article](https://stackabuse.com/)
+You can follow the tutorial on [StackAbuse article](https://www.stackabuse.com/flask-form-validation-with-flask-wtf/)
 
 To use this code, follow below steps
 1. Create the project folder:
